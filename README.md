@@ -28,7 +28,7 @@ I'm a passionate maker and full-stack developer with expertise in JavaScript, Re
 
  📫 How to Reach Me
 
-Feel free to connect with me on [LinkedIn]www.linkedin.com/in/bill-arnold-2b06511a6  or shoot me an email at [billarnol862@gmail.com](mailto:billarnol862@gmail.com).
+Feel free to connect with me on [LinkedIn]www.linkedin.com/in/bill-arnold-2b06511a6  or shoot me an email at billarnol862@gmail.com(mailto:billarnol862@gmail.com).
 
  😄 Fun Fact
  I'm also an enthusiastic painter and love creating art in various forms. Whether it's painting landscapes or crafting digital artwork, I find joy in expressing my creativity. Similarly, in the world of full-stack development, there's a sense of satisfaction in bringing ideas to life and creating immersive experiences on the web.
